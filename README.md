@@ -15,21 +15,21 @@ p11. The Realms
 p16. Important Stuff
 p23. Storage 101
 p28. Helpful Tips
-p39. Materials & Items 
-p51. Professions
-p55. Finding Essence
+p38. Materials & Items 
+p50. Professions
+p54. Finding Essence
 
 ===================
 -Table of Contents 2-
 ===================
-p59. Dungeons 101
-p64. Making Money
-p70. Tool Durability
-p73. The Atlas Inn
-p83. Creating a Town
-p87. Runecarving
-p90. Author's Remarks
-
+p58. Tool Durability
+p61. Dungeons 101
+p66. Making Money
+p71. Trading
+p74. The Atlas Inn
+p84. Creating a Town
+p88. Runecarving
+p91. Author's Remarks
 
 
 
@@ -37,7 +37,8 @@ p90. Author's Remarks
 ===================
    -Getting Started-
 ===================
-Begin your quest by visiting Midgard. In the town of Origin, make sure to acquaint yourself with the locals. Tools and gear are not made the traditional way in this world and require the help of townsfolk to create them. The craftsmen who stick to their stations around town will generally be the ones to create tools and other things. Keeping track of these recipes can be tough, but we'll get to that. When you start adventuring, you'll quickly notice a lot of "EXP Acquired" messages in chat.
+Begin your quest by visiting Midgard. In the town of Origin, make sure to acquaint yourself with the locals. Tools and gear are not made the traditional way in this world and require the help of townsfolk to create them. 
+The craftsmen who stick to their stations around town will generally be the ones to create tools and other things. Keeping track of these recipes can be tough, but we'll get to that. When you start adventuring, you'll quickly notice a lot of "EXP Acquired" messages in chat.
 For a way to remove these messages, easily keep track of recipes improving your experience as a whole, read the next section.
 
 
@@ -57,7 +58,7 @@ experience. All of the mods in this package are blockgame friendly and don't pro
 
 >BlockGame Essentials
 You can find this modpack by going to the Pirate Software discord and searching "cheddargt modpack".
-This is the easiest way to set up the mods "BlockGame Enhanced" and "BlockGame Journal", the two most important ones IMO. 
+This is the easiest way to set up the mods "BlockGame Enhanced" and "BlockGame Journal", the two most important ones. 
 
 To learn more about these, as well as all of the other mods included in this modpack, the topic on discord contains all the info you need.
 These are all safe to use and once you install the modpack, you can always add/remove mods as you please! If you're in doubt on whether a mod is allowed or not, ask in the discord section "#blockgame-modders" and we will promptly clear your doubts!
@@ -113,7 +114,7 @@ You can visit public towns by typing
 In order to get a town you can either create
 your own or join an existing town. I highly suggest you get a room at The Atlas Inn.
 
-It has rooms for rental and it is very newbie friendly! You can read more about it in the "The Atlas Inn" section in p77.
+It has rooms for rental and it is very newbie friendly! You can read more about it in the "The Atlas Inn" section in p74.
 ===================
      -Storage 101-
 ===================
@@ -150,12 +151,12 @@ Right off the start, focus on getting a Brass Pickaxe so you can mine Iron.
 Coal is an important resource for crafting gear. Use Dried Kelp Blocks instead. Can be crafted by placing 9 Kelp in a crafting bench.
 
 >Survive in Myrkheim
-One strategy I've found to be very for surviving Myrkheim is to go as far away as you can, >>saving your coordinates<<, digging a hole straight down, covering the entrance with dirt so no one suspects a thing and building a small little settlement for yourself. This
-includes a few chests to keep nothing of value (materials, dirt, cobblestone etc), a water cauldron to stay hydrated and a Nether Portal so you can quickly sell stuff, store valuables in in your Ender Chest, etc.
+One strategy I've found to be great for surviving Myrkheim is to go as far away as you can, >>saving your coordinates<<, digging a hole straight down, covering the entrance with dirt so no one suspects a thing and building a small little settlement for yourself. 
+This includes a few chests to keep low value items (materials, dirt, cobblestone etc), a water cauldron to stay hydrated and a Nether Portal so you can quickly sell stuff, store valuables in your Ender Chest, etc.
 
 >Spec into Magic as soon as possible.
 Magic skills are very
-powerful and having a ranged attack is important. If you'd like an advice, The Atlas Inn is a great place for a sip of water ;)
+powerful and having a ranged attack is important. If you'd like some advice, the Atlas Inn is a great place for a sip of water ;)
 
 >Use Community Farms
 The farms in Origin are for everyone to use! They're useful for getting food easily. Take whatever you need, but make
@@ -164,15 +165,16 @@ harvesting is
 BlockGame's equivalent of that theory.
 
 >Craft items/armor
-Armors and offhand items improve the stats and exp gain of the profession that they're for. The higher your profession skill, higher are the odds
-of obtaining rare drops, including essences! 
+Armors and offhand items improve the stats and exp gain of the profession that they're for. The higher your profession skill, the higher the odds are of obtaining rare drops, 
+including essences! 
 
 >Get a bucket!
 You can only leave Myrkheim through nether portals! Therefore having a
 way to make a portal as fast as possible is important. You can make a Nether portal by using a bucket,
-water and lava. Simply use the lava to shape your portal and place them next to lava. If you find any lava pools laying around in Myrk, you can make yourself a quick portal to go to Origin and back, but be careful: leaving portals out in the open is prone to them getting broken or lava
-way to make a portal as fast as possible is important. You can make a Nether portal by having two buckets: one containing water and the other one for placing the lava. If you find any lava pools laying around in Myrk, you can make yourself a quick portal to go to Origin and back, but be
-careful: leaving portals out in the open is prone to them getting broken or lava casted. 
+water and lava. Simply use the lava to shape your portal and place them next to lava. If you find any lava pools laying around in Myrk, you can make yourself a quick portal to go to Origin and back, but be careful: leaving portals out in the open is prone to them getting broken or lava trapped. 
+
+>Buy stuff
+You can buy materials and items in various ways. More about it on the Trading section.
 
 >Talk to others.
 Blockgame is a Social Sandbox MMO, so one of the most important parts is being social! Don't be afraid to ask for help in whatever way you need.
@@ -188,18 +190,18 @@ Can ge gathered by mining stone-like objects and looting chests. It's used for a
 >Pristine Wood
 Can be acquired by chopping down trees and looting chests. Also used for a lot of stuff!
 
->Pristine Leather
-One of the most important items you can obtain. You can find Pristine Leather in Myrkheim chests, Dungeon chests or craft from Leather Scraps.
+>Pristine Hide
+One of the most important items you can obtain. You can find Pristine Hide in Myrkheim chests, Dungeon chests or craft from Leather Scraps.
 
 >Leather Scraps
 Can be obtained by slaying passive mobs. The Leatherworker in 
-Origin can craft these into Pristine Leather for a low price.
+Origin can craft these into Pristine Hide for a low price.
 
 >Meteor Shards
 Meteor Shards are found rarely by mining Gravel in Myrkheim. They are used in the creation of Mythril and Steel Ingots, some of the strongest metals in BlockGame.
 
 >Zombie Leather
-Can be obtained by smelting Rotten Flesh in a furnace. Very important to create Necronomicons and very useful due to it being an alternative to Pristine Leather in some crafting recipes. Unfortunately there's not much to do about the smell though.
+Can be obtained by smelting Rotten Flesh in a furnace. Very important to create Necronomicons and very useful due to it being an alternative to Pristine Hide in some crafting recipes. Unfortunately there's not much to do about the smell though.
 
 >Salt
 Can be found by digging up sand. Used in many food recipes.
@@ -208,8 +210,8 @@ Can be found by digging up sand. Used in many food recipes.
 Can be obtained by breaking Vines. Jungle Biomes are great for this.
 
 >Butter
-Can be obtained by milking a cow (yes, with
-a bucket) in Myrkheim and taking the milk to the chef.
+Can be obtained by milking a cow with
+a bucket in Myrkheim and taking the milk to the chef.
 
 >Ginger
 Found by digging up Dirt. Used mostly for leveling up Archaeology-related items.
@@ -222,12 +224,12 @@ digging up dirt, mud or logging mangrove roots (also applies to the muddy varian
 6x Bamboo in a crafting table as if you'd make a door.
 
 >Book
-Same recipe as vanilla, but with Pristine Leather.
+Same recipe as vanilla, but with Pristine Hide.
 >Shells
 The shells are all used for leveling up Archeology gear and all can be found by digging up sand.
 
 >Coagulated Mass
-The Coagulated Mass is found by digging up red sand which is found in Badlands biomes rarely in Myrkheim.
+Can be found by digging up red sand which is rarely found in Badlands biomes in Myrkheim.
 >Animated Bone
 This is the first important item for discovering dungeons on your own. Drops from Skeletons (rare) and can be crafted at the Alchemist.
 
@@ -300,6 +302,18 @@ Vibrant Essence is gained through anything that would give you Herbalism XP, lik
 >Corrupted Essence
 You can obtain corrupted essence by right clicking Corrupted Items with your Salvage Kit.
 ===================
+   -Tool Durability-
+===================
+You may notice that your tools start to break if you use them too much, but don't worry! If one of your tools breaks you can fix it by using repair powder. You can make repair powder by talking to each of the profession townsfolkin Origin's town hall, as well as by talking to the Smith, who can transform essences into repair powder.
+
+Important to note is that it's better, cheaper and easier to craft new tools while you are at the Tier 1 and Tier 2 level, while saving repair powder for Tier 3 and higher tools. This is because it's easy to collect the Tier 2 materials quickly while Tier 3 and higher requires much more investment and is therefore better to repair.
+
+
+
+
+
+
+===================
    -Dungeons 101-
 ===================
 One of your main goals in this world should be to conquer the various dungeons spread across Midgard. 
@@ -337,24 +351,26 @@ Dungeons contain many lootable chests as well (though most of them are hiding in
 
 >Daily Quests
 You can get a Daily Quest Token from the chest next to the town hall in Origin. You can turn in these tokens to several townsfolk to receive quests. Completing quests gives you 500 coin each and a lot of EXP for whatever category of quest you completed.
->Auction House (/ah)
-The auction house is a great place to make money and get resources. You can sell items on the auction house for however much you think they're worth.
-It's truly a good way to trade with others, although there's no guarantee people will buy your stuff.
 >PVP
 Defeating another player in combat will cause them to drop 5% of their current account balance. This may be worth it to you, however be careful! If you bully the wrong player, you may wake up with a bounty on your head!
 
 
 ===================
-   -Tool Durability-
+        -Trading-        
 ===================
-You may notice that your tools start to break if you use them too much, but don't worry! If one of your tools breaks you can fix it by using repair powder. You can make repair powder by talking to each of the profession townsfolkin Origin's town hall, as well as by talking to the Smith, who can transform essences into repair powder.
+In Blockgame, you can buy and sell items to other players. This is a great way to make money and get resources.
 
-Important to note is that it's better, cheaper and easier to craft new tools while you are at the Tier 1 and Tier 2 level, while saving repair powder for Tier 3 and highertools. This is because it's easy to collect the Tier 2 materials quickly while Tier 3 and higher requires much more investment and is therefore better to repair.
+>Auction House (/ah)
+You can buy and sell items at the Auction House. Putting an item 
+up for sale has a 5% fee over that item's price. If you're looking for a specific item, like for instance, fiery essence, you can search for it using the command '/ah search fiery'.
 
+>Bazaar
+Although the Bazaar is great for buying items in small 
+quantities, it can be quite tough to find stuff due to how big it is.
 
-
-
-
+>Xiro's Market
+===/t spawn market==
+A player-run flea market, the best place to acquire small amounts of resources and you can even own a stall eventually!
 
 ===================
     -The Atlas Inn-
@@ -457,7 +473,7 @@ party upon death.
       superluigi83
 ===================
 
-Hi, thanks for reading the whole book, or just skipping to the end or whatever. I think Blockgame is really neat, though somewhat cryptic, and I hope this book has helped you get into it.This ended up being way longer than I thought it would*, and I'm sorry if it's a bit wordy but I wanted this to be a bit more comprehensive than the previous one. 
+Hi, thanks for reading the whole book, or just skipping to the end or whatever. I think Blockgame is really neat, though somewhat cryptic, and I hope this book has helped you get into it. This ended up being way longer than I thought it would*, and I'm sorry if it's a bit wordy but I wanted this to be a bit more comprehensive than the previous one. 
 If you're struggling to find some items or want to return this
 
 [*wait til she sees Vol. 2 lol -cheddar]
