@@ -15,19 +15,20 @@ p11. The Realms
 p16. Important Stuff
 p23. Storage 101
 p28. Helpful Tips
-p37. Materials & Items 
-p50. Professions
-p56. Finding Essence
+p39. Materials & Items 
+p51. Professions
+p55. Finding Essence
 
 ===================
 -Table of Contents 2-
 ===================
-p60. Dungeons 101
-p68. Making Money
-p74. Tool Durability
-p77. The Atlas Inn
-p87. Creating a Town
-p91. Author's Remarks
+p59. Dungeons 101
+p64. Making Money
+p70. Tool Durability
+p73. The Atlas Inn
+p83. Creating a Town
+p87. Runecarving
+p90. Author's Remarks
 
 
 
@@ -154,12 +155,13 @@ includes a few chests to keep nothing of value (materials, dirt, cobblestone etc
 
 >Spec into Magic as soon as possible.
 Magic skills are very
-powerful and having a ranged attack is important. Our advice would be trying to get a Firebolt Spellbook, but any spell helps.
+powerful and having a ranged attack is important. If you'd like an advice, The Atlas Inn is a great place for a sip of water ;)
 
 >Use Community Farms
-The farms in Origin are for everyone to use! They're useful for getting food easily. Take whatever
-you need, but make sure to replant! The 'Shopping Cart Theory' states that an "individual's moral character can be determined by whether they choose to return a shopping cart to its designated spot after use, or whether they simply leave it wherever it suits them". Replanting after
-harvesting is BlockGame's equivalent of that theory.
+The farms in Origin are for everyone to use! They're useful for getting food easily. Take whatever you need, but make
+sure to replant! The 'Shopping Cart Theory' states that an "individual's moral character can be determined by whether they choose to return a shopping cart to its designated spot after use, or whether they simply leave it wherever it suits them". Replanting after
+harvesting is 
+BlockGame's equivalent of that theory.
 
 >Craft items/armor
 Armors and offhand items improve the stats and exp gain of the profession that they're for. The higher your profession skill, higher are the odds
@@ -315,38 +317,23 @@ have the following:
 >Tier 2 gear for your preferred attack method (you can use
 Tier 1 gear if you're in a group). DO NOT use corrupt gear in your first few runs
 because you WILL die. And as you know, Corrupted Items drops upon death.
-
 Having to go through the dungeon to reach your party members again without any gear is very dangerous.
->Food (duh)
 
 >Courage and an adventurous spirit. Fortune favors the bold.
-
-It is also recommoned that you reach at least Level 15 in Einherjar before taking on the first dungeon solo and Lvl9/10 if in a group.For traversing the second dungeon, you want the following:
-
->Tier 3/4 ranged weapon(s)
-
->Tier 3/4 sword
-
->Tier 3/4 armor
-
->Food
-
->A brave heart
-The recommended level for soloing dungeon 2 is around 50, though with a party you should each be fine at level 30 or so. 
-
-Obtaining Tier 3 and 4 crafting recipes from the auction house may be crutial for survival.
-
 ===================
     -Making Money-
 ===================
 They say money makes the world go round, and while this one may be made of cubes, the same principle still applies. 
-You need money for things like crafting, ranking up, and claiming land, but how do you get it?The main money making methods include:
+You need money for things like crafting, ranking up, and claiming land, but how do you get it?
+The main money making methods include:
 
 >Exploring Myrkheim
-Chests in Myrkheim contain a bountiful amount of coin, generally about 100 per chest. Don't worry about other people getting to the chests first, each chest has inventory on a per-player basis so everyone can get some rewards from it!
+Chests in Myrkheim contain a bountiful amount of coin, generally about 100 per chest. Don't worry about other people getting to the chests first, each chest has inventory on a per-player basis so 
+everyone can get some rewards from it!
 
 >Raiding Dungeons
 Dungeons contain many lootable chests as well (though most of them are hiding in little nooks and crannies so keep an eye out and your exploring cap on!)
+
 
 >Daily Quests
 You can get a Daily Quest Token from the chest next to the town hall in Origin. You can turn in these tokens to several townsfolk to receive quests. Completing quests gives you 500 coin each and a lot of EXP for whatever category of quest you completed.
@@ -465,7 +452,6 @@ party upon death.
 
 
 
-
 ===================
   -Author's Remarks-
       superluigi83
@@ -487,12 +473,12 @@ but anyway that's it from me. I hope you have fun and thank you for reading! :D
        cheddargt
 ===================
 Hello!! Thank for reading the second volume of BlockGame Guide. I've put a lot of effort into this because as much as I love the wiki, I don't really like having to go out of the game in order to seek info.
-superluigi83's guide has helped me A LOT in my introduction to BlockGame and I wanted to pass this on to the next wave of players. 
-Volume I had a section dedicated solely to Runecarving but due to books having a limit of 100 pages, I had to cut it. I will put that in a separate book.
+superluigi83's guide has helped me A LOT in my introduction to BlockGame and I wanted to pass this on to the next wave of players.
 If you need to reach me, you can find me in Pirate Software discord: @cheddargt or stop by my Café in the North-West part of The Atlas!
 This took quite a bit to rewrite, so thank you for your attention! :) 
 
+Special thanks to yoerio for revision help!
+
+
+
 I hope we helped you in your first steps here in BlockGame!
-
-
-
