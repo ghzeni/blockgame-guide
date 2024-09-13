@@ -181,11 +181,10 @@ While looking at the crafting recipes from the townspeople of Origin, you may ha
 
 Allow us to explain...
 >Pristine Stone
-You can gather Pristine Stone by mining stone-like objects. It's used for a lot of stuff!
+Can ge gathered by mining stone-like objects and looting chests. It's used for a lot of stuff!
 
 >Pristine Wood
-Pristine Wood is easy to obtain. Just chop down trees and you're bound to get some. 
-
+Can be acquired by chopping down trees and looting chests. Also used for a lot of stuff!
 
 >Pristine Leather
 One of the most important items you can obtain. You can find Pristine Leather in Myrkheim chests, Dungeon chests or craft from Leather Scraps.
@@ -280,7 +279,9 @@ Leveled by creating recipes provided by the Chefs in Origin.
 ===================
 You probably noticed while checking in with the townspeople that they need a lot of essence for higher level gear, but how do you get essence?
 
+
 Allow us to explain...
+
 >Fiery Essence
 Fiery Essence is dropped by anything that gives you mining EXP in Myrkheim. Fiery essence is used for a lot of things so it's important to get this!
 
@@ -300,20 +301,20 @@ You can obtain corrupted essence by right clicking Corrupted Items with your Sal
    -Dungeons 101-
 ===================
 One of your main goals in this world should be to conquer the various dungeons spread across Midgard. 
-This section will detail how to find them and how you should prepare in order to take them on.First of all, where do you even find these dungeons?
+This section will detail how to find them and how you should prepare in order to take them on.
+First of all, where do you even find these dungeons?
 
-As mentioned previously they can be found all throughout Midgard, however discovering where they are is the tricky part. That is what the Hunter is for. By purchasing raid supplies from himin Origin, you can obtain a compass that will tell you where the dungeon is.
-
-Although, just because you know where a dungeon is, doesn't mean you should rush headfirst into it. First, you should obtain some gear.
-
-Before attempting your first dungeon you should at least have the following:
-
->At least one ranged weapon (Magic tome or Bow, both if you wish)
+As mentioned previously they can be found all throughout Midgard, however discovering where they are is the tricky part. That is what the Hunter is for. By purchasing raid supplies from him
+in Origin, you can obtain a compass that will tell you where the dungeon is. Although, just because you know where a dungeon is, doesn't mean you should rush headfirst into it. First, you should obtain some gear.
+Before attempting your first dungeon you should at least 
+have the following:
+>One ranged weapon (Magic tome or Bow, both if you wish)
 
 >A Stone Sword
 
 >Tier 2 gear for your preferred attack method (you can use
-Tier 1 gear if you're in a group). DO NOT use corrupt gear in your first few runs because you WILL die. And as you know, Corrupted Items drops upon death.
+Tier 1 gear if you're in a group). DO NOT use corrupt gear in your first few runs
+because you WILL die. And as you know, Corrupted Items drops upon death.
 
 Having to go through the dungeon to reach your party members again without any gear is very dangerous.
 >Food (duh)
@@ -492,3 +493,6 @@ If you need to reach me, you can find me in Pirate Software discord: @cheddargt 
 This took quite a bit to rewrite, so thank you for your attention! :) 
 
 I hope we helped you in your first steps here in BlockGame!
+
+
+
