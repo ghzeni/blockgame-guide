@@ -18,7 +18,6 @@ p28. Helpful Tips
 p38. Materials & Items 
 p50. Professions
 p54. Finding Essence
-
 ===================
 -Table of Contents 2-
 ===================
@@ -30,16 +29,14 @@ p74. The Atlas Inn
 p84. Creating a Town
 p88. Runecarving
 p91. Author's Remarks
-
-
-
-
+===================
+tip: use PgUp/PgDn to quickly flip pages.
 ===================
    -Getting Started-
 ===================
 Begin your quest by visiting Midgard. In the town of Origin, make sure to acquaint yourself with the locals. Tools and gear are not made the traditional way in this world and require the help of townsfolk to create them. 
 The craftsmen who stick to their stations around town will generally be the ones to create tools and other things. Keeping track of these recipes can be tough, but we'll get to that. When you start adventuring, you'll quickly notice a lot of "EXP Acquired" messages in chat.
-For a way to remove these messages, easily keep track of recipes improving your experience as a whole, read the next section.
+For a way to remove these messages, easily keep track of recipes, and improve your experience as a whole, read the next section.
 
 
 
@@ -53,12 +50,12 @@ For a way to remove these messages, easily keep track of recipes improving your 
 ===================
 Hey! Are you playing in Vanilla Minecraft? Tired of XP being spammed in chat? Want a better way to keep track of recipes?
 
-I've put up a modpack containing only the essential mods for an improved BlockGame
+I've put up a modpack containing only the essential mods for an improved Blockgame
 experience. All of the mods in this package are blockgame friendly and don't provide any advantages over other players.
 
->BlockGame Essentials
+>Blockgame Essentials
 You can find this modpack by going to the Pirate Software discord and searching "cheddargt modpack".
-This is the easiest way to set up the mods "BlockGame Enhanced" and "BlockGame Journal", the two most important ones. 
+This is the easiest way to set up the mods "Blockgame Enhanced" and "Blockgame Journal", the two most important ones. 
 
 To learn more about these, as well as all of the other mods included in this modpack, the topic on discord contains all the info you need.
 These are all safe to use and once you install the modpack, you can always add/remove mods as you please! If you're in doubt on whether a mod is allowed or not, ask in the discord section "#blockgame-modders" and we will promptly clear your doubts!
@@ -66,7 +63,7 @@ These are all safe to use and once you install the modpack, you can always add/r
 ===================
      -The Realms-
 ===================
-There are three realms in BlockGame: Yggdrasil, Midgard and Myrkheim.
+There are three realms in Blockgame: Yggdrasil, Midgard and Myrkheim.
 
 >Yggdrasil
 This is the 'Realm between Realms', kind of like a hub/ overworld.
@@ -75,7 +72,7 @@ This is the 'Realm between Realms', kind of like a hub/ overworld.
 >Midgard
 This is where towns, the bazaar, market and other 'permanent' structures are located. If you go to '/warp Yggdrasil' and walk into Midgard, you'll find yourself in Origin.
 
-Origin is the main city of BlockGame. It's where you'll find
+Origin is the main city of Blockgame. It's where you'll find
 your personal Ender Chest, the craftsmen and everyone else responsible for Professions.
 PVP is enabled in most towns aside from Origin, but it's very rare to get into a fight and will likely get you into trouble with that town's Mayor if you do.
 
@@ -90,7 +87,7 @@ If you lose your compass or any other starter items, you can purchase a starter 
 ===================
    -Important Stuff-
 ===================
-BlockGame has a lot of mechanics that are different from base Minecraft that you should be aware of, so read carefully!
+Blockgame has a lot of mechanics that are different from base Minecraft that you should be aware of, so read carefully!
 
 >Nether Portals
 When you take a Nether Portal in Myrkheim, you'll be
@@ -98,34 +95,33 @@ teleported to Origin. If you go through any Nether Portal in Midgard (except the
 take you to the start of Myrkheim, but also reset your “last portal” location, so be careful!
 
 >Hunger
-Though hunger is in vanilla Minecraft, BlockGame makes eating more rewarding and punishing to keep up on. Failing to feed yourself will inevitably 
+Though hunger is in vanilla Minecraft, Blockgame makes eating more rewarding and punishing to keep up on. Failing to feed yourself will inevitably 
 result in your death so make sure to have some snacks ready! 
 
 On the flipside, being fully fed will give you a small buff, improving your EXP gain and movement speed while fully fed. However, just eating normal foods won't keep you fed for long, which is why you need to
 worry about Hydration as well.
 
 >Hydration
-Hydration is basically a second hunger bar on top of your normal hunger bar. Thirst will deplete before hunger, allowing you to keep your fully fed buff longer. To drink water in BlockGame, you need to fill an
-empty glass bottle with water from a cauldron. This is so important that I (cheddar) made a tutorial on youtube showing a quick way to do this on-the-go - 'How to drink water in BlockGame'. Yes, really.
+Hydration is basically a second hunger bar on top of your normal hunger bar. Thirst will deplete before hunger, allowing you to keep your fully fed buff longer. To drink water in Blockgame, you need to fill an
+empty glass bottle with water from a cauldron. This is so important that I (cheddar) made a tutorial on youtube showing a quick way to do this on-the-go - 'How to drink water in Blockgame'. Yes, really.
 
 >Towns
 You can visit public towns by typing
 "/t spawn town_name".
-In order to get a town you can either create
-your own or join an existing town. I highly suggest you get a room at The Atlas Inn.
-
-It has rooms for rental and it is very newbie friendly! You can read more about it in the "The Atlas Inn" section in p74.
+In order to get a town, you can either create
+your own or join an existing town. I highly suggest you get a room at The Atlas Inn. It has rooms for rental and it is very newbie friendly! You can read more about it in the "The Atlas Inn" section in p74.
 ===================
      -Storage 101-
 ===================
-In the beggining of your journey, storage is very limited. Keeping items on yourself is dangerous as some items are cursed with Butterfingers, meaning they drop upon death. You can avoid this by storing these items
+In the beginning of your journey, storage is very limited. Keeping items on yourself is dangerous as some items are cursed with Butterfingers, meaning they drop upon death. You can avoid this by storing these items
 in Satchels or in your Backpack (read below).
 
 >Ender Chest
-This is your own personal storage located outside the Town Hall in Origin. You can safely store items there knowing that no one else will be able to access it.
+This is your own personal storage located outside the Town Hall in Origin. You can store items safely, knowing no one else can access them.
+
 
 >Satchels
-Satchels can hold up to 64 anything. Stuff stored inside satchels will not drop upon death, so having one or two to store your loot/essences as you explore is very useful.
+Satchels can hold up to 64 of anything. Stuff stored inside satchels will not drop upon death, so having one or two to store your loot/essences as you explore is very useful.
 
 >Bank
 You can store money on-the-go by using
@@ -144,7 +140,7 @@ Use /ranks to buy ranks in order to get your Backpack as fast as you can!
 ===================
 
 >Focus on Mining
-Mining is probably the single most important way of getting things in BlockGame. Leveling up your Mining tools as fast as possible will allow you to get more materials than any other skill. 
+Mining is probably the single most important way of getting things in Blockgame. Leveling up your Mining tools as fast as possible will allow you to get more materials than any other skill. 
 Right off the start, focus on getting a Brass Pickaxe so you can mine Iron.
 
 >Don't use Coal
@@ -166,15 +162,15 @@ BlockGame's equivalent of that theory.
 
 >Craft items/armor
 Armors and offhand items improve the stats and exp gain of the profession that they're for. The higher your profession skill, the higher the odds are of obtaining rare drops, 
-including essences! 
+including Essences! 
 
 >Get a bucket!
 You can only leave Myrkheim through nether portals! Therefore having a
 way to make a portal as fast as possible is important. You can make a Nether portal by using a bucket,
-water and lava. Simply use the lava to shape your portal and place them next to lava. If you find any lava pools laying around in Myrk, you can make yourself a quick portal to go to Origin and back, but be careful: leaving portals out in the open is prone to them getting broken or lava trapped. 
+water and lava. Simply use the lava to shape your portal and place them next to lava. If you find any lava pools lying around in Myrk, you can make yourself a quick portal to go to Origin and back, but be careful: leaving portals out in the open makes them prone to getting broken or lava trapped. 
 
 >Buy stuff
-You can buy materials and items in various ways. More about it on the Trading section.
+You can buy materials and items in various ways. More about it in the Trading section.
 
 >Talk to others.
 Blockgame is a Social Sandbox MMO, so one of the most important parts is being social! Don't be afraid to ask for help in whatever way you need.
@@ -185,20 +181,21 @@ While looking at the crafting recipes from the townspeople of Origin, you may ha
 
 Allow us to explain...
 >Pristine Stone
-Can ge gathered by mining stone-like objects and looting chests. It's used for a lot of stuff!
+Can be gathered by mining stone-like objects and looting chests. It's used for a lot of stuff!
 
 >Pristine Wood
 Can be acquired by chopping down trees and looting chests. Also used for a lot of stuff!
 
 >Pristine Hide
-One of the most important items you can obtain. You can find Pristine Hide in Myrkheim chests, Dungeon chests or craft from Leather Scraps.
+One of the most important items you can obtain. You can find Pristine Hide in Myrkheim chests or craft it from Leather Scraps.
 
 >Leather Scraps
-Can be obtained by slaying passive mobs. The Leatherworker in 
-Origin can craft these into Pristine Hide for a low price.
+Can be obtained by slaying passive mobs. The Leatherworker in Origin can craft these 
+into Pristine Hide for a low price.
 
 >Meteor Shards
 Meteor Shards are found rarely by mining Gravel in Myrkheim. They are used in the creation of Mythril and Steel Ingots, some of the strongest metals in BlockGame.
+
 
 >Zombie Leather
 Can be obtained by smelting Rotten Flesh in a furnace. Very important to create Necronomicons and very useful due to it being an alternative to Pristine Hide in some crafting recipes. Unfortunately there's not much to do about the smell though.
@@ -230,6 +227,8 @@ The shells are all used for leveling up Archeology gear and all can be found by 
 
 >Coagulated Mass
 Can be found by digging up red sand which is rarely found in Badlands biomes in Myrkheim.
+
+
 >Animated Bone
 This is the first important item for discovering dungeons on your own. Drops from Skeletons (rare) and can be crafted at the Alchemist.
 
@@ -239,15 +238,13 @@ Can be obtained by exploring dungeons, specifically by clearing boss rooms.
 Another dungeon important item. They drop from enemies of the second dungeon.
 
 >Cursed Sand
-As of writing this book, it is currently unobtainable.
+As of the writing of this book, it is currently unobtainable.
+
+
 
 >Corrupted Items
 Can be acquired by slaying mobs and 
-clearing dungeons. Drops upon death.
-
-If you're wearing a full T1 set and replace one piece with a Corrupted T1+ armor piece, you'll still receive the full set bonus! However, be careful: these items drop upon death.
-
-
+clearing dungeons. Drops upon death. If you're wearing a full T1 set and replace one piece with a Corrupted T1+ armor piece, you'll still receive the full set bonus! However, be careful: these items drop upon death.
 
 ===================
      -Professions-
@@ -264,7 +261,7 @@ Leveled by getting feeesh. You can get
 various types of loot too.
 
 >Logging
-Can be leved up by chopping down trees.
+Can be leveled up by chopping down trees.
 
 >Archaeology
 Leveled by breaking blocks that are broken faster with a shovel.
@@ -276,7 +273,7 @@ Leveled by breaking most plant-like things.
 >Cooking 
 Leveled by creating recipes provided by the Chefs in Origin.
 
->Runecarving can be leveled up by creating runes. More about it in it's own section.
+>Runecarving can be leveled up by creating runes. More about it in its own section.
 
 ===================
   -Finding Essence-
@@ -304,9 +301,9 @@ You can obtain corrupted essence by right clicking Corrupted Items with your Sal
 ===================
    -Tool Durability-
 ===================
-You may notice that your tools start to break if you use them too much, but don't worry! If one of your tools breaks you can fix it by using repair powder. You can make repair powder by talking to each of the profession townsfolkin Origin's town hall, as well as by talking to the Smith, who can transform essences into repair powder.
+You may notice that your tools start to break if you use them too much, but don't worry! If one of your tools breaks you can fix it by using repair powder. You can make repair powder by talking to each of the profession townsfolk in Origin's town hall, as well as by talking to the Smith, who can transform essences into repair powder.
 
-Important to note is that it's better, cheaper and easier to craft new tools while you are at the Tier 1 and Tier 2 level, while saving repair powder for Tier 3 and higher tools. This is because it's easy to collect the Tier 2 materials quickly while Tier 3 and higher requires much more investment and is therefore better to repair.
+Important to note is that it's better, cheaper and easier to craft new tools while you are at the Tier 1 and Tier 2 level, while saving repair powder for Tier 3 and above tools. This is because it's easy to collect the Tier 2 materials quickly while Tier 3 and higher require much more investment and is therefore better to repair.
 
 
 
@@ -314,14 +311,14 @@ Important to note is that it's better, cheaper and easier to craft new tools whi
 
 
 ===================
-   -Dungeons 101-
+    -Dungeons 101-    
 ===================
 One of your main goals in this world should be to conquer the various dungeons spread across Midgard. 
 This section will detail how to find them and how you should prepare in order to take them on.
 First of all, where do you even find these dungeons?
 
 As mentioned previously they can be found all throughout Midgard, however discovering where they are is the tricky part. That is what the Hunter is for. By purchasing raid supplies from him
-in Origin, you can obtain a compass that will tell you where the dungeon is. Although, just because you know where a dungeon is, doesn't mean you should rush headfirst into it. First, you should obtain some gear.
+in Origin, you can obtain a compass that will tell you where the dungeon is. Although knowing where a dungeon is doesn't mean you should rush headfirst into it. First, you should obtain some gear.
 Before attempting your first dungeon you should at least 
 have the following:
 >One ranged weapon (Magic tome or Bow, both if you wish)
@@ -330,7 +327,7 @@ have the following:
 
 >Tier 2 gear for your preferred attack method (you can use
 Tier 1 gear if you're in a group). DO NOT use corrupt gear in your first few runs
-because you WILL die. And as you know, Corrupted Items drops upon death.
+because you WILL die. And as you know, Corrupted Items drop upon death.
 Having to go through the dungeon to reach your party members again without any gear is very dangerous.
 
 >Courage and an adventurous spirit. Fortune favors the bold.
@@ -376,7 +373,7 @@ A player-run flea market, the best place to acquire small amounts of resources a
     -The Atlas Inn-
       Introduction
 ===================
-You can visit The Atlas Inn (497, -1928) by using the command '/t spawn the_atlas' and heading left. There's a bunch of useful information in there but getting a room here is very helpful early on (wasto me - cheddar) because it allows you to have a safe place to store your stuff and the town provides you with free resources such as Lava Buckets and Obsidian to get back from Myrkheim. 
+You can visit The Atlas Inn (497, -1928) by using the command '/t spawn the_atlas' and heading left. There's a bunch of useful information in there but getting a room here is very helpful early on (wasto me - cheddar) because it allows you to have a safe place to store your stuff and the town provides free resources such as lava buckets and obsidian to help you return from Myrkheim. 
 To join The Atlas, the easiest way is to go to the Pirate Software discord and search 
 "The Atlas - A Newbie Friendly Town". This is a thread in the #blockgame-forums and upon requesting, someone will promptly respond to you and help you get a room at the Inn. 
 
@@ -399,7 +396,7 @@ any other town, create your own, or even buy and own your plot here (more in the
 Evermore where you can buy materials for a cheaper price. 
 Make sure to interact with your nation/town members :>
 
-4, If you go offline for a month (as an Inn resident) I (Mr. Escudero) will store your stuff in a private chest indefinetly. If you
+4, If you go offline for a month (as an Inn resident) I (Mr. Escudero) will store your stuff in a private chest indefinitely. If you
 come back your stuff will be waiting you there at the attic of the Scouting Guild, in chests to your name and only you will be able to open them.
 
 Remember that you can tp back here with /t spawn
@@ -429,7 +426,8 @@ Creates your own town. You must have enough money in your balance to pay $250 up
 per day. Be careful as running out of money in the town's bank will cause it to go into ruin!
 
 /t deposit [amount]
-Deposits money in your town's bank.
+Deposits money in your town's bank. Once deposited, money cannot be withdrawn from the town bank.
+
 
 >/t bankhistory
 View your town's funds.
@@ -439,32 +437,27 @@ Expand your town into nearby chunks
 
 You can claim up to 9 chunks and 1 outpost plot before you need to buy a writ of expansion.
 
-
-
-
-
 ===================
      -Runecarving-
 ===================
 A profession that can be leveled up by crafting runes with Stonebeard in Origin. Runes can be slotted in your gear to buff their stats, but should only be seeked in higher levels. We will sum up what each rune does briefly.
->Serenity Runes buffs defensive stats.
+>Serenity Runes buff defensive stats.
 
->Clarity Runes buffs profession XP gains.
+>Clarity Runes buff profession XP gains.
 
->Violence Runes buffs your offensive stats.
+>Violence Runes buff your offensive stats.
 
->Muddled Runes buffs rANdOm stats.
+>Muddled Runes buff rANdOm stats.
 
->Martyr Runes casts
+>Martyr Runes cast
 Grand Heal on your
 party upon death. 
 
->Backstab Runes give backstabbing damage.
+>Backstab Runes grant backstabbing damage.
 
->Murder Runes buffs PVP damage, but you wouldn't kill another person...
+>Murder Runes buff PVP damage, but you wouldn't kill another person...
 
 ... would you?
-
 
 
 
